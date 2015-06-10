@@ -314,6 +314,7 @@ class Life_Client_Core
 		class jerryRefuel {};
 		class flashbang {};
 		class boltcutter {};
+		class bankalarmsound {};
 		class blastingCharge {};
 		class defuseKit {};
 		class storageBox {};
