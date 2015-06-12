@@ -303,6 +303,8 @@ class Life_Client_Core
 		class chopShopMenu {};
 		class chopShopSelection {};
 		class chopShopSell {};
+		class slotmachine {};
+		class slotspin {};
 	};
 	
 	class Items
